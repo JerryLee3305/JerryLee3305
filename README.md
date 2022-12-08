@@ -16,6 +16,5 @@
   <img src="https://img.shields.io/badge/SAS-D24939?style=flat-square&"/></a>&nbsp 
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryLee3305&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JerryLee3305&theme=tokyonight)](https://git.io/streak-stats)
 
