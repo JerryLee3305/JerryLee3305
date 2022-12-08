@@ -1,6 +1,7 @@
 
 # SeungJae Lee
-### 👋 Welcome 👋
+
+<h3 align="center">👋 Welcome 👋</h3>
 
 <h3 align="center">🌈 I will prepare and some day my chance will come 🌈</h3>
 
